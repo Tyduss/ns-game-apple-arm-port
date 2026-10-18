@@ -19,7 +19,8 @@ git clone https://github.com/realskyrin/ns-game-apple-arm-port.git ~/.codex/skil
 也可以直接让助手读取 [SKILL.md](SKILL.md)。目标仓库、资源位置与设备由具体任务提供。
 
 ## 已经移植的启动器下载
-https://pan.baidu.com/s/1HwTlxwHJd8bUfCenBIxcHg?pwd=ttwi 
+通过网盘分享的文件：NS Games for Mac
+链接: https://pan.baidu.com/s/1AjCOG7qJDKo3KER0RL2oIg?pwd=f7ay 提取码: f7ay 
 
 ## 内容
 
