@@ -18,6 +18,9 @@ git clone https://github.com/realskyrin/ns-game-apple-arm-port.git ~/.codex/skil
 
 也可以直接让助手读取 [SKILL.md](SKILL.md)。目标仓库、资源位置与设备由具体任务提供。
 
+## 已经移植的启动器下载
+https://pan.baidu.com/s/1HwTlxwHJd8bUfCenBIxcHg?pwd=ttwi 
+
 ## 内容
 
 - [SKILL.md](SKILL.md)：工作流程、语言架构、诊断与交付要求。
