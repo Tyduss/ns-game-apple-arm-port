@@ -1,4 +1,4 @@
 interface:
   display_name: "NS 游戏 Apple ARM 移植"
   short_description: "使用 Rust 与 Metal 推进 NS 游戏到 Mac、iPad 和 iPhone 的原生移植"
-  default_prompt: "使用 $ns-game-apple-arm-port 检查当前 NS 游戏版本和移植基础，按 Rust 模块化兼容层与 Metal 架构推进 Apple ARM 原生移植，并记录实际运行证据与未验证项。"
+  default_prompt: "使用 $ns-game-apple-arm-port 检查当前 NS 游戏版本和移植基础，按 Rust 模块化兼容层与 Metal 架构先集中完成当前目标内的全量代码修改，再统一测试、集中修复与定向复测，并记录实际运行证据与未验证项。"
